@@ -1,0 +1,5 @@
+/.env
+/new-password-sharing-tool.iml
+/node_modules
+/.storage/*.sqlite
+/.idea
